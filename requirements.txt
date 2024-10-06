@@ -2,3 +2,4 @@ flet
 fsrs
 python-dotenv
 humanize
+azure-ai-translation-text
