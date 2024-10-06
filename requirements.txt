@@ -1,6 +1,2 @@
 flet
 openai
-# azure-ai-translation-text
-# fsrs
-# python-dotenv
-# humanize
