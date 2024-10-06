@@ -1,2 +1,4 @@
 flet
 fsrs
+python-dotenv
+humanize
